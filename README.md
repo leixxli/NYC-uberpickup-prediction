@@ -2,7 +2,7 @@
 
 - [Shiny app](https://leixxli.shinyapps.io/uber_pickup_prediction_app/).
 
-- [Medium Post](https://medium.com/@leixxxli/how-to-predict-the-uber-demand-2a5321cb46a5)
+- [Medium Blog Post](https://medium.com/@leixxxli/how-to-predict-the-uber-demand-2a5321cb46a5)
 
 ## Overview
 
