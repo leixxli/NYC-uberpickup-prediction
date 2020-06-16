@@ -1,0 +1,28 @@
+---
+title: "Overview"
+output: html_document
+---
+
+> #### Data Visulization 
+
+***
+
+**The features of data are introduced in "References" Section.**
++ [Source](https://www.kaggle.com/yannisp/uber-pickups-enriched) 
++ Features are divided into 3 categories, borough, weather and time. 
++ Feel free to check the trend of these features with the number of pickups.
+
+***
+
+
+> #### Prediction about Uber Pickups In One Week
+
+***
+
+**The prediction methods include Generalized Linear Model (GLM) and Autoregressive Integrated Moving Average model (ARIMA).** 
++ For **GLM**, feel free to add different features to train the model. 
++ For **ARIMA**, feel free to change these six parameter d,p,q,D,P,Q to check the predicted results. 
+
+**Train data: from 01/01/2015 to 06/23/2015, Test data: 06/24/2015 to 06/30/2015 **
+
+
